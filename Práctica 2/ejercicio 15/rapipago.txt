@@ -1,0 +1,5 @@
+2 1 alumno moroso
+3 2 alumno moroso
+5 2 alumno moroso
+6 3 alumno moroso
+9 3 alumno moroso
